@@ -295,43 +295,43 @@
         <div class="container pt-1" >
             <div class="row " >
                 
-                <a class="col hover4 section-height text-decoration-none" href="https://bys.ktu.edu.tr/" >
+                <a class="col hover4 section-height text-decoration-none" href="#" >
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">BYS</p>
                   <p class="card-title">Bilgi Yönetim</p>
                   <p >Sistemi</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://ebys.ktu.edu.tr/">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text" >EBYS</p>
                   <p class="card-title">Elektronik Belge</p>
                   <p >Yönetim Sistemi</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://www.ktu.edu.tr/bilgiislem/eposta">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">Webmail</p>
                   <p class="card-title">KTÜ E-Posta</p>
                   <p >Hizmeti</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://www.ktu.edu.tr/yonetim">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">Strateji & Kalite</p>
                   <p class="card-title">Kurumsal Gelişim ve </p>
                   <p >Planlama</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://www.ktu.edu.tr/kik">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">Kurumsal İletişim</p>
                   <p class="card-title">Web, Radyo TV,</p>
                   <p >Gazete</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://www.ktu.edu.tr/library">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">Kütüphane</p>
                   <p class="card-title">KTÜ </p>
                   <p >Kütüphanesi</p>
                 </a>
-                <a class="col hover4 section-height text-decoration-none" href="https://uek.ktu.edu.tr/">
+                <a class="col hover4 section-height text-decoration-none" href="#">
                   <i class="fas fa-window-restore font-size4"></i>
                   <p class="section-text">UZEM</p>
                   <p class="card-title">KTÜ Uzaktan </p>
