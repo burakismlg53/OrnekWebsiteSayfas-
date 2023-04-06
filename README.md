@@ -1,4 +1,4 @@
-# OrnekWebsiteSayfasi
+# OrnekWebsiteSayfaÖdevi
 
 **IDE** : **Visual Studio Code** </br>
 **Languages**: **HTML,CSS**
